@@ -1,0 +1,4 @@
+transformer ProgressionFactory => (questPnj) : QuestSystem
+transformer ProgressionStep en ScriptableObject
+transformer EventBus en ScriptableObject
+Demander au prof comment differencier mon scriptableobject Condition et le runtime ainsi que pour les progression step
